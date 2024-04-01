@@ -1,0 +1,31 @@
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\bin\Debug\Employee.mdf
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\bin\Debug\Employee_log.ldf
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Display.resources
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Edit.resources
+C:\Users\hp\OneDrive - NSBM\Documents\NSBM_DEMO\C# lectures\C# practical\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Employee.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\Employee.mdf
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\Employee_log.ldf
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Display.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Edit.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Employee.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Form1.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\sanuj\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
