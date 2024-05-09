@@ -1,0 +1,10 @@
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\bin\Debug\Lab_Sheet08.exe.config
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\bin\Debug\Lab_Sheet08.exe
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\bin\Debug\Lab_Sheet08.pdb
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.csproj.AssemblyReference.cache
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.Form1.resources
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.Properties.Resources.resources
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.csproj.GenerateResource.cache
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.csproj.CoreCompileInputs.cache
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.exe
+C:\Users\sanuj\OneDrive\Documents\C#_WFA\C#_Lab_Sheets\Lab_Sheet08\Lab_Sheet08\obj\Debug\Lab_Sheet08.pdb
